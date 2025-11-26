@@ -1,0 +1,61 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and IDE workspace
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and debugging
+*.log
+
+# Environment variables and credentials
+.env
+*.env
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Matplotlib generated cache
+*.matplotlib-cache
+
+# Profile output / memory profiling dumps
+*.prof
+*.pstats
+
+# Plot images / generated graphs
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Temporary or backup files
+*.tmp
+*.bak
+
+# Pytest / coverage
+.coverage
+htmlcov/
+.cache/
+
+# NetworkX or graph data exports
+*.gexf
+*.graphml
+
